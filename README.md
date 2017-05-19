@@ -1,7 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-This is a clone of the classes 'Frogger' game.
+This is a clone of the classic 'Frogger' game.
 
 Move your player to cross the path of nasty bugs without being devoured and try to reach the um.. 'water' to be 'safe'!
 
