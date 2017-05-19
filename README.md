@@ -15,5 +15,7 @@ Use the arrow keys on your keyboard:
 
 * Right Arrow = Move Right
 
-Enjoy your game!
+Enjoy the game live at this url:
+
+https://eastnorthwest.github.io/frontend-nanodegree-arcade-game/
 
